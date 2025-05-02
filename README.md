@@ -1,4 +1,4 @@
-# This is a fork from the [EPOS original repostory](https://gitlab.lisha.ufsc.br/epos/ine5424)
+# This is a fork from the [EPOS original repository](https://gitlab.lisha.ufsc.br/epos/ine5424)
     
 ### Changes
 
